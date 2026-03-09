@@ -1,0 +1,26 @@
+{
+    "name": "Ondřej Slovák",
+    "email": "ondrej.slovak@zak.spspb.cz",
+    "bio": "Něcodělač",
+    "role": "Student",
+    "skills": [
+        "LuaU",
+        "C++",
+        "C#"
+    ],
+    "projects": [
+        {
+            "title": "ITprofil 3.0",
+            "description": "Něco ve stylu LinkedIn"
+        },
+        {
+            "title": "Vývoj hry",
+            "description": "Hlavní manager vývoje hry pro Roblox - Trial By Fire"
+        }
+    ],
+    "interests": [
+        "Zbraně",
+        "Vývoj her",
+        "jo"
+    ]
+}
